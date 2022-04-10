@@ -17,11 +17,13 @@ git clone https://github.com/TakahiroT0415156/portfolio_practice.git
 <h5>初めてGithubに載せる時</h5>
 
 <ol>
-  <li>ターミナル/コマンドプロンプトを開きます</li>
-  <li>cd ファイル名</li># 自分のファイル名に移動
+  <li>VScodeのターミナルを開きます</li>
   <li>git init</li>
-  <li>git commit -m "first commit"</li>
+  <li>git remote rm origin</li>
+  <li>git init</li>
   <li>git remote add origin https://github.com/xxxxxxxxx/リポジトリ名.git</li>
+  <li>git add .</li>
+  <li>git commit -m "first commit"</li>
   <li>git push origin main</li>
 </ol>
 
