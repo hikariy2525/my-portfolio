@@ -7,6 +7,7 @@
   height: 180px;
   margin: 0 auto;
   border-radius:50%;
+  object-fit: cover;
 }
 
 .main-img {
