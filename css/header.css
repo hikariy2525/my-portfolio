@@ -8,26 +8,22 @@
   position: fixed;
 }
 
-header ul {
+.header ul {
   display: flex;
   width: 100%;
 }
 
-header li {
+.header li {
   display: flex;
   padding-right: 2rem;
   align-items: center;
 }
 
-header a {
+.header a {
   color: rgb(34, 32, 28);
   font-weight: lighter;
   font-family: 'Grape Nuts', cursive;
   font-size: 2rem;
-}
-
-.hamburger-menu {
-  display: none;
 }
 
 .list1:hover {
@@ -36,31 +32,6 @@ header a {
 }
 
 .list2:hover {
-  font-size: 2.5rem;
-  color: rgb(135, 186, 216);
-}
-
-.list3:hover {
-  font-size: 2.5rem;
-  color: rgb(135, 186, 216);
-}
-
-.list4:hover {
-  font-size: 2.5rem;
-  color: rgb(135, 186, 216);
-}
-
-.list5:hover {
-  font-size: 2.5rem;
-  color: rgb(135, 186, 216);
-}
-
-.list6:hover {
-  font-size: 2.5rem;
-  color: rgb(135, 186, 216);
-}
-
-.list7:hover {
   font-size: 2.5rem;
   color: rgb(135, 186, 216);
 }

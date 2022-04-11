@@ -1,7 +1,12 @@
 footer {
-  font-family: 'Grape Nuts', cursive;
+  height: 2.5rem;
   background-color: #000;
+  text-align: center;
+}
+
+.footer-word {
+  font-family: 'Grape Nuts', cursive;
   color: rgb(219, 219, 208);
   text-align: center;
-  height: 2.5rem;
+  padding: 10px;
 }
