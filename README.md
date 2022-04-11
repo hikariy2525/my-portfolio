@@ -47,7 +47,7 @@ git push origin main
 
 ターミナル/コマンドプロンプトを開きます
 cd ファイル名
-# 自分のファイル名に移動
+### 自分のファイル名に移動
 git add .
 git commit -m "xxxx.xxxの変更"
 git push origin main
