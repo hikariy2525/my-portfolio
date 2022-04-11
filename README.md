@@ -12,7 +12,7 @@ git clone https://github.com/TakahiroT0415156/portfolio_practice.git
 
 # How to push
 
-### Githubの使い方
+## Githubの使い方
 
 ##### 初めてGithubに載せる時
 
@@ -43,7 +43,7 @@ git push origin main
 
 
 
-##### Githubに変更を載せる時
+## Githubに変更を載せる時
 
 ターミナル/コマンドプロンプトを開きます
 ```rb:ターミナル/コマンドプロンプト
