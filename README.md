@@ -14,9 +14,10 @@ git clone https://github.com/TakahiroT0415156/portfolio_practice.git
 
 ## Githubの使い方
 
-##### 初めてGithubに載せる時
+### 初めてGithubに載せる時
 
-VScodeのターミナルを開きます
+### VScodeのターミナルを開きます
+
 ```rb:ターミナル/コマンドプロンプト
 git init
 ```
