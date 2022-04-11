@@ -12,9 +12,9 @@ git clone https://github.com/TakahiroT0415156/portfolio_practice.git
 
 # How to push
 
-<h3>Githubの使い方</h3>
+### Githubの使い方
 
-<h5>初めてGithubに載せる時</h5>
+##### 初めてGithubに載せる時
 
 VScodeのターミナルを開きます
 ```rb:ターミナル/コマンドプロンプト
@@ -43,11 +43,22 @@ git push origin main
 
 
 
-<h5>Githubに変更を載せる時</h5>
+##### Githubに変更を載せる時
 
 ターミナル/コマンドプロンプトを開きます
+```rb:ターミナル/コマンドプロンプト
 cd ファイル名
+```
 ### 自分のファイル名に移動
+
+```rb:ターミナル/コマンドプロンプト
 git add .
+```
+
+```rb:ターミナル/コマンドプロンプト
 git commit -m "xxxx.xxxの変更"
+```
+
+```rb:ターミナル/コマンドプロンプト
 git push origin main
+```
